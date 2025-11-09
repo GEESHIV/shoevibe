@@ -6,6 +6,7 @@ export interface Product {
   mrp: number;
   images: string[];
   category: string;
+  sizes?: number[];
   description: string;
 }
 

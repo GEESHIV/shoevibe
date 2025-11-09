@@ -31,7 +31,7 @@ const OrderModal: React.FC<OrderModalProps> = ({ product, isOpen, onClose, onOrd
   const [currentImageIndex, setCurrentImageIndex] = useState(0);
 
   // Available shoe sizes
-  const shoeSizes = ['6', '7', '8', '9', '10', '11', '12'];
+  const shoeSizes = ['4', '5', '6', '7', '8', '9', '10','11','12'];
 
   // Prevent background scrolling when modal is open
   useEffect(() => {
