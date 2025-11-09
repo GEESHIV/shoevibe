@@ -7,8 +7,8 @@ const products: Product[] = [
     name: 'The Aphrodite Block Heels',
     description: 'Elevate your look with these elegant, white strappy block heels, featuring a comfortable platform and a secure ankle strap.',
     rating: 4.5,
-    sellingPrice: 1499,
-    mrp: 2599,
+    sellingPrice: 2000,
+    mrp: 2000,
     images: [
       'https://images.meesho.com/images/products/431164626/bhsdu_512.avif?width=512',
       'https://images.meesho.com/images/products/431164626/xbye7_512.avif?width=512',
