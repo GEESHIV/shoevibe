@@ -46,10 +46,10 @@ const HomePage: React.FC = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6 md:py-8">
           <div className="text-center">
             <h1 className="text-2xl md:text-4xl font-bold text-gray-900 mb-2">
-              Premium Watch Collection
+              Premium Shoe Collection
             </h1>
             <p className="text-base md:text-lg text-gray-600">
-              Luxury timepieces that define elegance
+              Stylish footwear that defines your look
             </p>
           </div>
         </div>
@@ -60,10 +60,10 @@ const HomePage: React.FC = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-6 md:mb-8">
             <h2 className="text-xl md:text-2xl font-bold text-gray-900 mb-2">
-              Featured Watches
+              Featured Shoes
             </h2>
             <p className="text-sm md:text-base text-gray-600">
-              Handpicked luxury timepieces for every occasion
+              Handpicked footwear for every occasion
             </p>
           </div>
           
