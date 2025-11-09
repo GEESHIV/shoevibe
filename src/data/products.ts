@@ -7,8 +7,8 @@ const products: Product[] = [
     name: 'The Aphrodite Block Heels',
     description: 'Elevate your look with these elegant, white strappy block heels, featuring a comfortable platform and a secure ankle strap.',
     rating: 4.5,
-    sellingPrice: 1399,
-    mrp: 2499,
+    sellingPrice: 999,
+    mrp: 1899,
     images: [
       'https://images.meesho.com/images/products/431164626/bhsdu_512.avif?width=512',
       'https://images.meesho.com/images/products/431164626/xbye7_512.avif?width=512',
@@ -23,7 +23,7 @@ const products: Product[] = [
     name: 'The Seraphina Pointed Stiletto',
     description: 'Elevate any ensemble with this stunning stiletto. Featuring a polished finish, a flattering pointed toe, and a secure ankle strap for sophisticated style and all-day confidence.',
     rating: 4.9,
-    sellingPrice: 1299,
+    sellingPrice: 999,
     mrp: 1999,
     images: [
       'https://images.meesho.com/images/products/181559668/8xdiy_512.avif?width=512',
@@ -39,7 +39,7 @@ const products: Product[] = [
     name: 'Black Ankle-Cuff Stiletto',
     description: 'An elegant black pointed-toe heel with a secure strap around the ankle. Perfect for formal or dressy casual wear.',
     rating: 4.7,
-    sellingPrice: 1299,
+    sellingPrice: 999,
     mrp: 1999,
     images: [
       'https://images.meesho.com/images/products/181559669/tuovx_512.avif?width=512',
@@ -55,8 +55,8 @@ const products: Product[] = [
     name: 'Elegant Ivory Ankle Strap Pump',
     description: 'A beautiful ivory pointed-toe heel with a mid-height stiletto heel and a slim, secure strap around the ankle. Ideal for bridal or sophisticated looks.',
     rating: 4.6,
-    sellingPrice: 1499,
-    mrp: 2499,
+    sellingPrice: 999,
+    mrp: 2199,
     images: [
       'https://images.meesho.com/images/products/121343175/c2v67_512.avif?width=512',
       'https://images.meesho.com/images/products/121343175/qlyee_512.avif?width=512',
@@ -71,8 +71,8 @@ const products: Product[] = [
     name: 'Sparkle Strap Slide Heel',
     description: 'Black square-toe slide sandals with two slim, rhinestone-embellished straps across the foot. Perfect for dressing up any evening look.',
     rating: 4.2,
-    sellingPrice: 1499,
-    mrp: 2599,
+    sellingPrice: 999,
+    mrp: 2199,
     images: [
       'https://images.meesho.com/images/products/146576438/gucpc_512.avif?width=512',
       'https://images.meesho.com/images/products/146576438/rbc9f_512.avif?width=512',
@@ -87,7 +87,7 @@ const products: Product[] = [
     name: 'Embellished Slingback Block Heel',
     description: 'Cream or beige pointed-toe slingback heels featuring a decorative butterfly or bow-shaped embellishment made of rhinestones and sheer material. Great for festive or special occasions.',
     rating: 4.7,
-    sellingPrice: 1199,
+    sellingPrice: 999,
     mrp: 1999,
     images: [
       'https://images.meesho.com/images/products/431740287/n9xix_512.avif?width=512',
@@ -103,8 +103,8 @@ const products: Product[] = [
     name: 'Mauve Rhinestone Slingback Heel',
     description: 'Glamorous dusky pink heels with a pointed toe and a secure slingback strap, completely covered in sparkling rhinestone embellishment. Perfect for parties and weddings.',
     rating: 4.9,
-    sellingPrice: 1499,
-    mrp: 2599,
+    sellingPrice: 999,
+    mrp: 1999,
     images: [
       'https://images.meesho.com/images/products/431727420/nutqp_512.avif?width=512',
       'https://images.meesho.com/images/products/431727420/fbxuw_512.avif?width=512',
@@ -119,8 +119,8 @@ const products: Product[] = [
     name: 'Chain-Detail Mules',
     description: 'Stylish off-white slip-on mules featuring a closed, squared-off toe, a flared mid-height heel, and a prominent gold chain detail across the top strap.',
     rating: 4.5,
-    sellingPrice: 1499,
-    mrp: 2999,
+    sellingPrice: 999,
+    mrp: 2299,
     images: [
       'https://images.meesho.com/images/products/328859963/m0bfe_512.avif?width=512',
       'https://images.meesho.com/images/products/328859963/fegv5_512.avif?width=512',
@@ -135,8 +135,8 @@ const products: Product[] = [
     name: 'Black Pointed Chain Mule',
     description: 'Chic black slip-on mules featuring a sharp pointed toe, a low flared heel, and a stylish gold-toned chain detail across the arch of the foot.',
     rating: 4.8,
-    sellingPrice: 1499,
-    mrp: 2999,
+    sellingPrice: 999,
+    mrp: 1999,
     images: [
       'https://images.meesho.com/images/products/328859964/dye0d_512.avif?width=512',
       'https://images.meesho.com/images/products/328859964/v6j0x_512.avif?width=512',
@@ -151,8 +151,8 @@ const products: Product[] = [
     name: 'Hot Pink Chain Heel Mules',
     description: 'Vibrant hot pink slip-on mules featuring a closed, rounded toe, a unique flared heel, and a stylish gold chain detail across the top strap. A bold statement shoe.',
     rating: 4.6,
-    sellingPrice: 1499,
-    mrp: 2999,
+    sellingPrice: 999,
+    mrp: 2399,
     images: [
       'https://images.meesho.com/images/products/328859962/rult0_512.avif?width=512',
       'https://images.meesho.com/images/products/328859962/5scp2_512.avif?width=512',
@@ -167,7 +167,7 @@ const products: Product[] = [
     name: 'Blush Satin Bow Stiletto',
     description: 'Elegant blush pink satin heels featuring a sharp pointed toe, a high stiletto heel, a slim ankle strap, and a prominent bow embellished with rhinestones on the toe.',
     rating: 4.4,
-    sellingPrice: 1499,
+    sellingPrice: 999,
     mrp: 1999,
     images: [
       'https://images.meesho.com/images/products/465638445/obeyl_512.avif?width=512',
@@ -183,7 +183,7 @@ const products: Product[] = [
     name: 'Black Rhinestone Bow Kitten Heel',
     description: 'Elegant black pointed-toe slingback heels featuring a comfortable low kitten heel and a sparkling silver rhinestone bow detail on the toe. Perfect for refined evening wear.',
     rating: 4.4,
-    sellingPrice: 1199,
+    sellingPrice: 999,
     mrp: 1999,
     images: [
       'https://images.meesho.com/images/products/544581798/vbr01_512.avif?width=512',
@@ -199,8 +199,8 @@ const products: Product[] = [
     name: 'Black Heel Thong Sandal',
     description: 'Chic black patent slide heels with a square toe, a high stiletto heel, and minimalist thong-style straps across the foot. A trendy summer statement.',
     rating: 4.8,
-    sellingPrice: 1299,
-    mrp: 1999,
+    sellingPrice: 999,
+    mrp: 2499,
     images: [
       'https://images.meesho.com/images/products/146580842/cb0up_512.avif?width=512',
       'https://images.meesho.com/images/products/146580842/cvqv8_512.avif?width=512',
@@ -215,7 +215,7 @@ const products: Product[] = [
     name: 'Black Bow Embellished Slingback',
     description: 'High-shine black pointed-toe slingback heels featuring a high stiletto heel and a large, sparkling rhinestone-encrusted bow detail on the toe.',
     rating: 4.2,
-    sellingPrice: 1299,
+    sellingPrice: 999,
     mrp: 2199,
     images: [
       'https://images.meesho.com/images/products/431740288/z6e0r_512.avif?width=512',
@@ -231,7 +231,7 @@ const products: Product[] = [
     name: 'Pink Sheer Bow Slingback',
     description: 'Soft pink pointed-toe slingback heels with a mid-height heel and a decorative sheer, layered bow embellished with subtle sparkle or polka dots on the toe.',
     rating: 4.2,
-    sellingPrice: 1399,
+    sellingPrice: 999,
     mrp: 2499,
     images: [
       'https://images.meesho.com/images/products/431740286/r96hs_512.avif?width=512',
@@ -247,7 +247,7 @@ const products: Product[] = [
     name: 'Black Patent Bow Mule',
     description: 'High-shine black slip-on mules featuring a sharp pointed toe, a unique flared heel, and a stylish bow detail across the arch of the foot.',
     rating: 4.1,
-    sellingPrice: 1199,
+    sellingPrice: 999,
     mrp: 1999,
     images: [
       'https://images.meesho.com/images/products/592999469/1ehxi_512.avif?width=512',
@@ -263,7 +263,7 @@ const products: Product[] = [
     name: 'White Pointed Bow Mule',
     description: 'Clean white slip-on mules featuring a sharp pointed toe, a unique flared heel, and a stylish knot or bow detail across the arch of the foot.',
     rating: 4.8,
-    sellingPrice: 1299,
+    sellingPrice: 999,
     mrp: 1999,
     images: [
       'https://images.meesho.com/images/products/592999467/2mtxf_512.avif?width=512',
@@ -279,7 +279,7 @@ const products: Product[] = [
     name: 'White Crisscross Slide Heels',
     description: 'Stylish white slip-on sandals featuring a high stiletto heel and two wide straps that cross over the top of the foot. Perfect for a modern summer look.',
     rating: 4.7,
-    sellingPrice: 1499,
+    sellingPrice: 999,
     mrp: 2499,
     images: [
       'https://images.meesho.com/images/products/238982243/jdp4e_512.avif?width=512',
@@ -295,7 +295,7 @@ const products: Product[] = [
     name: 'Black Crisscross Block Heel Slide',
     description: 'Chic black slip-on sandals featuring a high, sturdy block heel and two wide straps that crisscross over the top of the foot. Great for versatile day-to-night wear.',
     rating: 4.9,
-    sellingPrice: 1499,
+    sellingPrice: 999,
     mrp: 2499,
     images: [
       'https://images.meesho.com/images/products/238982242/uansk_512.avif?width=512',
@@ -311,7 +311,7 @@ const products: Product[] = [
     name: 'Black Strappy Gladiator Flats',
     description: 'Stylish black patent flat sandals with multiple thin straps that crisscross over the foot and wrap around the ankle, secured by a closed heel cup.',
     rating: 4.8,
-    sellingPrice: 1499,
+    sellingPrice: 999,
     mrp: 2499,
     images: [
       'https://images.meesho.com/images/products/258184230/8gwmk_512.avif?width=512',
@@ -345,8 +345,8 @@ const products: Product[] = [
     name: 'Light Grey Performance Runner',
     description: 'Light grey and white athletic shoes with a comfortable, thick white sole and a stylish curved blue accent on the heel. Designed for running and athletic training.',
     rating: 4.5,
-    sellingPrice: 1599,
-    mrp: 2999,
+    sellingPrice: 999,
+    mrp: 2599,
     images: [
       'https://images.meesho.com/images/products/620037332/5db8p_512.avif?width=512',
       'https://images.meesho.com/images/products/620037332/swbee_512.avif?width=512',
@@ -361,8 +361,8 @@ const products: Product[] = [
     name: 'Blue Mesh Gradient Runner',
     description: 'Lightweight blue and white athletic shoes featuring a breathable mesh upper with a gradient design, a thick white sole, and bright orange accents on the outsole..',
     rating: 4.7,
-    sellingPrice: 1599,
-    mrp: 2999,
+    sellingPrice: 999,
+    mrp: 2199,
     images: [
       'https://images.meesho.com/images/products/620037333/ck44o_512.avif?width=512',
       'https://images.meesho.com/images/products/620037333/vzpjr_512.avif?width=512',
@@ -377,7 +377,7 @@ const products: Product[] = [
     name: 'Monochrome Gradient Running Shoe',
     description: 'Stylish white and black lace-up sneakers featuring a smooth white toe and a cool grey-to-black gradient design on the midfoot. They have a lightweight, sleek profile',
     rating: 4.6,
-    sellingPrice: 1299,
+    sellingPrice: 999,
     mrp: 2599,
     images: [
       'https://images.meesho.com/images/products/520449259/hyheq_512.avif?width=512',
@@ -393,8 +393,8 @@ const products: Product[] = [
     name: 'White and Blue Gradient Running Shoe',
     description: 'Sleek white lace-up sneakers with a lightweight design, featuring a cool blue-to-navy gradient graphic and bright blue accents on the side. Ideal for fitness and casual wear.',
     rating: 4.8,
-    sellingPrice: 1299,
-    mrp: 2499,
+    sellingPrice: 999,
+    mrp: 2199,
     images: [
       'https://images.meesho.com/images/products/520449260/m8gra_512.avif?width=512',
       'https://images.meesho.com/images/products/520449260/3o2fj_512.avif?width=512',
@@ -425,7 +425,7 @@ const products: Product[] = [
     name: 'Grey and Black Casual Sneaker',
     description: 'Stylish grey and black lace-up sneakers featuring a smooth upper, a thick white sole for comfort, and a prominent logo on the side. Perfect for everyday casual wear.',
     rating: 4.9,
-    sellingPrice: 1299,
+    sellingPrice: 999,
     mrp: 1999,
     images: [
       'https://images.meesho.com/images/products/550474023/t2k2i_512.avif?width=512',
@@ -441,7 +441,7 @@ const products: Product[] = [
     name: 'Classic White Sports Trainer',
     description: 'Clean white lace-up athletic shoe featuring a durable upper with horizontal stitched panels, a thick white midsole, and a contrasting black outsole. Great for general fitness or casual wear.',
     rating: 4.5,
-    sellingPrice: 1499,
+    sellingPrice: 999,
     mrp: 2399,
     images: [
       'https://images.meesho.com/images/products/418628964/g8s8j_512.avif?width=512',
@@ -457,8 +457,8 @@ const products: Product[] = [
     name: 'Black and Electric Blue Runner',
     description: 'Striking black athletic shoes with vibrant electric blue accents, featuring a thick white midsole and a bright blue outsole. Designed for eye-catching style and performance.',
     rating: 4.8,
-    sellingPrice: 1499,
-    mrp: 2999,
+    sellingPrice: 999,
+    mrp: 1999,
     images: [
       'https://images.meesho.com/images/products/233816974/hmo5k_512.avif?width=512',
       'https://images.meesho.com/images/products/233816974/z2nxt_512.avif?width=512',
@@ -473,8 +473,8 @@ const products: Product[] = [
     name: 'Black and Neon Yellow Runner',
     description: 'Sleek black running or training shoe featuring a durable upper, a chunky black sole, and vibrant neon yellow accents, including a honeycomb texture on the midsole and reflective details.',
     rating: 4.6,
-    sellingPrice: 1299,
-    mrp: 2599,
+    sellingPrice: 999,
+    mrp: 2199,
     images: [
       'https://images.meesho.com/images/products/565552214/ux77s_512.avif?width=512',
       'https://images.meesho.com/images/products/565552214/4lohs_512.avif?width=512',
@@ -489,7 +489,7 @@ const products: Product[] = [
     name: 'The Aero Dash',
     description: 'Light grey and white athletic shoes with a comfortable, thick white sole and a stylish curved blue accent on the heel. Designed for running and athletic training.',
     rating: 4.9,
-    sellingPrice: 1299,
+    sellingPrice: 999,
     mrp: 1999,
     images: [
       'https://images.meesho.com/images/products/621644098/bs6ha_512.avif?width=512',
@@ -521,7 +521,7 @@ const products: Product[] = [
     name: 'Floral Pattern Watch',
     description: 'High-shine black pointed-toe slingback heels featuring a high stiletto heel and a large, sparkling rhinestone-encrusted bow detail on the toe.',
     rating: 4.8,
-    sellingPrice: 1499,
+    sellingPrice: 999,
     mrp: 2399,
     images: [
       'https://images.meesho.com/images/products/574756132/k5kmh_512.avif?width=512',
@@ -537,7 +537,7 @@ const products: Product[] = [
     name: 'White Pointed Bow Mule',
     description: 'Clean white slip-on mules featuring a sharp pointed toe, a unique flared heel, and a stylish knot or bow detail across the arch of the foot.',
     rating: 4.6,
-    sellingPrice: 1499,
+    sellingPrice: 999,
     mrp: 2399,
     images: [
       'https://images.meesho.com/images/products/574756133/nastb_512.avif?width=512',
@@ -569,7 +569,7 @@ const products: Product[] = [
     name: 'Chunky Tri-Tone Fashion Trainer',
     description: 'Bold, lace-up sneaker featuring a thick, sculpted white outsole, and a multi-paneled upper in black, white, and grey with a subtle red accent on the collar. A trendy, statement fashion shoe.',
     rating: 4.5,
-    sellingPrice: 1499,
+    sellingPrice: 999,
     mrp: 2399,
     images: [
       'https://images.meesho.com/images/products/540249963/vtmvb_512.avif?width=512',
@@ -633,7 +633,7 @@ const products: Product[] = [
     name: 'Black Knit Sock Trainer',
     description: 'Modern black slip-on athletic shoe featuring a breathable knit upper and sock-like collar with grey trim, set atop a thick, comfortable white sole.',
     rating: 4.8,
-    sellingPrice: 1399,
+    sellingPrice: 999,
     mrp: 1999,
     images: [
       'https://images.meesho.com/images/products/41947412/pypqx_512.avif?width=512',
